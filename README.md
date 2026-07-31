@@ -4,8 +4,8 @@
 A proof of concept for application for EUC built in the codex-cli with GPT 5.6 SOL ( high )  
 
 The agent was working for 1 hour with debugging.
-The smartphone connected via usb for automatic installation app and debugging to a computer and the rest was doing codex-cli itself without any use interaction. 
-Application is fully working, live information , settings , saved data.
+The smartphone connected via usb for automatic installation app and debugging to a computer and the rest was doing a codex-cli itself without any user interaction. 
+Application is fully working, live information , settings , saved data, etc.
 
 
 
